@@ -1,0 +1,2 @@
+admin|admin@dagnet.com|admin123|Administrador
+Jose|Jose@gmail.com|jose123|Empleado
